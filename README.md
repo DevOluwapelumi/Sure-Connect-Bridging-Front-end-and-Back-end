@@ -20,3 +20,8 @@ With Sure Connect, your front-end and back-end developers can work together seam
 Getting Started:
 
 To begin using Sure Connect in your front-end and back-end development projects, follow these steps:
+Installation: Start by installing Sure Connect on your development environment. You can find detailed installation instructions here.
+Configuration: Configure Sure Connect to work with your specific front-end and back-end technologies. Detailed configuration guides can be found here.
+GitHub Integration: Integrate Sure Connect seamlessly with your GitHub repositories by following this GitHub integration guide.
+Collaboration: Encourage your front-end and back-end teams to collaborate effectively using Sure Connect. Share the documentation and best practices to streamline your development process.
+Feedback and Support: As you explore Sure Connect, provide feedback and seek support through our community forum and customer support.
