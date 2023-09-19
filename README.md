@@ -27,3 +27,8 @@ Collaboration: Encourage your front-end and back-end teams to collaborate effect
 Feedback and Support: As you explore Sure Connect, provide feedback and seek support through our community forum and customer support.
 
 Sure Connect empowers development teams to build responsive, secure, and high-performance web applications by bridging the gap between front-end and back-end development. With its powerful features and comprehensive documentation, it's the perfect tool to enhance collaboration and accelerate your projects.
+
+Discover the full potential of Sure Connect today, and revolutionize the way your teams work together in the ever-evolving world of web development.
+
+GitHub Deployed link.: ---  https://devoluwapelumi.github.io/Sure-Connect-Bridging-Front-end-and-Back-end/
+Start connecting your front-end and back-end seamlessly with Sure Connect, and experience the future of web development collaboration.
