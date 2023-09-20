@@ -3,7 +3,6 @@ Sure Connect is a robust and streamlined solution designed to seamlessly integra
 This powerful tool enhances the development process, allowing teams to work together harmoniously and deliver high-quality software products.
 
 Key Features:
-
 Real-time Synchronization: Sure Connect offers real-time synchronization between the front-end and back-end components of your application. This means that changes made by developers in either the front-end or back-end are instantly reflected in the integrated GitHub repository.
 Automated Deployment: Forget manual pushing of code to GitHub; Sure Connect automates the deployment process. With just a few clicks, your code changes are pushed to the respective branches, ensuring that your project's GitHub repository is always up-to-date.
 Branch Management: Sure Connect provides advanced branch management capabilities. It helps in creating, merging, and deleting branches, ensuring that your development workflow is smooth and organized. Developers can work on feature branches and merge them seamlessly into the main branch when ready.
